@@ -34,7 +34,7 @@ const u = {
     },
     writeT(text,x,y){
         ctx.beginPath();
-// The size is set with the font
+// The size is set with the font 
         ctx.font = '25px serif';
 // align position
         ctx.fillStyle = "yellow";
