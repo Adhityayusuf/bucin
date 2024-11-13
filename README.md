@@ -15,9 +15,9 @@ This project utilizes the following programming languages and technologies:
 
 ```console
 farid@Ubuntu~ $ pip3 install git
-farid@Ubuntu~ $ git clone https://github.com/tiunusia/bucin
+farid@Ubuntu~ $ git clone https://github.com/tiunusia/bucin.git
 ```
 
 # Download ZIP
 
-<p align="left"><img src="ss.jpg" alt="ICON" width="500" height="300"/></p>
+<p align="left"><img src="ss.png" alt="ICON" width="500" height="300"/></p>
